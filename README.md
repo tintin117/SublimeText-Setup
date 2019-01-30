@@ -32,3 +32,5 @@ Some fancy stuff to make Sublime Text better
     "sublime_completions_visibility": "default",
      "python_package_paths": ["C:/Program Files/Autodesk/Maya2015/devkit/other/pymel/extras/completion/py"]
      }
+10. FileHeader
+11. AutoDocstring
